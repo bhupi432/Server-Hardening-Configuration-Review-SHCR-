@@ -3,7 +3,7 @@ Configuration Audits Purpose: Host-Based Assessment is a process to audit an Inf
 Purpose:
 This script aims to systematically review and enhance security configurations on Solaris OS version 11.4 systems. By automating various checks and configurations, it significantly reduces the time-consuming manual effort required for security review tasks.
 How to Run:
-1.	Ensure the script is executable: chmod +x solaris_security_review.sh.
+#	Ensure the script is executable: chmod +x solaris_security_review.sh.
 2.	Execute the script: ./solaris_security_review.sh
 Regulations for the Script:
 1.	Ensure proper permissions are set for executing the script.
