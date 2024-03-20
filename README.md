@@ -1,6 +1,6 @@
 # Solaris Security Review Script
 
-![Script Logo](https://placehold.it/150x150)
+![Script Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.trentonsystems.com%2Fhubfs%2Flock%2520computer%2520circuit%2520board%2520concept.jpeg&tbnid=6D2E4isCZR0jwM&vet=12ahUKEwjSuo3miYOFAxXlomMGHcxLAj8QMygZegUIARCKAQ..i&imgrefurl=https%3A%2F%2Fwww.trentonsystems.com%2Fen-us%2Fresource-hub%2Fblog%2Fsystem-hardening-overview&docid=clWI_xpLSvKrEM&w=999&h=500&q=os%20hardening%20images&ved=2ahUKEwjSuo3miYOFAxXlomMGHcxLAj8QMygZegUIARCKAQ)
 
 ## Purpose
 
