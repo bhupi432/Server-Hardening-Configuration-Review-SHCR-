@@ -26,7 +26,7 @@ Benefits of the Script:
 Additional Notes:
 •	The script provides detailed prompts and outputs for each security configuration check, aiding in easy interpretation and action.
 •	Regularly update the script to incorporate new security recommendations or best practices.
-•	Exercise caution while implementing changes suggested by the script, especially in production environments.
+•	Exercise caution while implementing changes suggested by the script, especially in production environments. 
 
 
 
