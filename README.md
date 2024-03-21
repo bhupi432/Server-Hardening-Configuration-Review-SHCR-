@@ -1,4 +1,4 @@
-# Solaris Security Review Script
+# Solaris Configuration Security Review Script
 
 ![Script Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlwnOzld578cs_TaEYedkK0aFEmId0AyYbg)
 
