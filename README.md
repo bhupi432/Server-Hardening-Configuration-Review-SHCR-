@@ -9,7 +9,7 @@ This script aims to systematically review and enhance security configurations on
 ## How to Run
 
 1. Ensure the script is executable: `chmod +x solaris_security_review.sh`.
-2. Execute the script: `./solaris_security_review.sh`.
+2. Execute the script: `./Solaris_OS_Configuration_Audit.sh`.
 
 ## Regulations for the Script
 
